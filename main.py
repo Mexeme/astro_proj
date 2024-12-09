@@ -107,7 +107,7 @@ def main():
             print(f"La luminosité de l'étoile est de {luminosity} fois la luminosité du Soleil.")
         
         elif choice == '3':
-            print("Au revoir !")
+            print("Au revoir!")
             break
         else:
             print("Choix invalide, essayez à nouveau.")
